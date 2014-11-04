@@ -3,6 +3,7 @@ test-portlet
 
 Aipoでのテストアプリの作成用リポジトリです。
 
+GitHubアカウント名 NakasatoNorihiko
 
 関連情報
 --------
